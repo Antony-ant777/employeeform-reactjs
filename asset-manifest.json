@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employeeform-reactjs/static/css/main.44f4b43e.css",
+    "main.js": "/employeeform-reactjs/static/js/main.15050255.js",
+    "static/js/453.42bd1ccc.chunk.js": "/employeeform-reactjs/static/js/453.42bd1ccc.chunk.js",
+    "index.html": "/employeeform-reactjs/index.html",
+    "main.44f4b43e.css.map": "/employeeform-reactjs/static/css/main.44f4b43e.css.map",
+    "main.15050255.js.map": "/employeeform-reactjs/static/js/main.15050255.js.map",
+    "453.42bd1ccc.chunk.js.map": "/employeeform-reactjs/static/js/453.42bd1ccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f4b43e.css",
+    "static/js/main.15050255.js"
+  ]
+}
